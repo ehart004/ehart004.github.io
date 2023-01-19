@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+---
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Ph.D. in Neuroscience, University of Texas at Austin, 2019
+- M.S. in Applied Cognition and Neuroscience, University of Texas at Dallas, 2012
+- B.S. in Business Administration (Quantitative Finance & Strategic Management), West Virginia University, 2007
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Work experience
+
+- _Quantitative Researcher_ - Neuronomics Asset Management, Zug, CH, 2022-present
+
+- _Research Fellow, Neuroscience_ - Center for Perceptual Systems, University of Texas at Austin, 2019-2022
+
+- _Graduate Researcher, Neuroscience_ - Vision / Decision Lab, University of Texas at Austin, 2013-2019
+
+- _Graduate Researcher, Neuroscience_ - Face Perception Lab, University of Texas at Dallas, 2011-2012
+
+- _Research Assistant, Neuroscience_ - Moral Cognition Lab, Harvard University, 2012
+
+- _Psychometrics Analyst_ - Pearson Education, Austin, TX, 2009-2011
+
+## Skills
+
+- _Blockchain_
+  - “Crypto/Web3 native,” DeFi, on-chain data analytics, tokenomics, NFTs, DAOs, blockchain games
+- _Programming languages and data science tools_
+  - Python (NumPy/SciPy, pandas, Matplotlib, Jupyter, scikit-learn, TensorFlow, Plotly), SQL, MATLAB, Git
+  - Web3 tools/APIs (Etherscan, Dune Analytics, DeFi Llama, Nansen, Messari, Coingecko, The Graph)
+- _Machine learning / AI and statistical methods_
+  - Regression, classification, time series models, deep learning, Bayesian statistics, reinforcement learning
+- _Business and finance_
+  - Quantitative finance, algorithmic trading, complexity economics, strategic management

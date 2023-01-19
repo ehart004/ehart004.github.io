@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
-author_profile: true
+author_profile: True
 ---
 
 {% include base_path %}
@@ -23,8 +23,9 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 {% for collection in site.collections %}
 {% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
+{% capture label %}{{ collection.label }}{% endcapture %}
+{% if label != written_label %}
+
   <h2>{{ label }}</h2>
   {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
@@ -34,4 +35,4 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
