@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Eric Hart is a senior data scientist focused on blockchain analytics, decentralized finance, and algorithmic trading. Previously, he was a research scientist in computational neuroscience at the University of Texas at Austin. His research concentrated on the neural and computational mechanisms of decision making and working memory. Before coming to neuroscience, his background was in business and economics, where he studied quantitative finance and strategic management. Research in economic models led him to neuroscience, because he became interested in the underlying mechanisms of valuation and choice selection in the brain. In recent years, he has come full circle and builds neuroscience-inspired machine learning models to investigate cryptoeconomic systems.
+Eric is a senior quant researcher working at the intersection of blockchain and AI. Currently, he leads a quant R&D team focused on cutting edge DeFi strategies. Previously, he was a senior data scientist working in various sectors from AI to hedge funds to neuroscience. He has a broad technical background that ranges from finance and economics to neuroscience; the common thread– a passion for modeling complex systems. Eric holds a PhD in systems and computational neuroscience, a MS in applied neuroscience, and a BS in quantitative finance.
+
 
 ## Interests
 
-- Blockchain/Web3 & DeFi Analytics
+- Blockchain/Web3 & DeFi
 - Algorithmic Trading & Quantitative Finance
 - Neuroeconomics & Complexity Economics
