@@ -6,4 +6,4 @@ collection: portfolio
 
 The Pool Explorer App pulls real time data from several sources, calculates many metrics and shows price price data for comparison. It also uses Monte Carlo simulations to estimate some advanced metrics like *implied* volatility and *expected* impermanent loss.
 
-_[Yield Explorer](https://pool-explorer-1c536fd777f8.herokuapp.com/)_
+_[Pool Explorer](https://pool-explorer-1c536fd777f8.herokuapp.com/)_
