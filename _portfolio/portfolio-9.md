@@ -1,9 +1,7 @@
 ---
-title: "Pool Explorer App"
-excerpt: "This app helps you explore Uniswap V3 pools and shows many metrics and price data for comparison. It also uses Monte Carlo simulations to estimate some advanced metrics like *implied* volatility and *expected* impermanent loss. <br/> <br/> <img src='/images/project_figures/resized/pool_explorer_app_example_pic_resized.png'>"
+title: "Simulations reveal how long liquidity providers will remain in a position given market dynamics"
+excerpt: "A Laplace distribution better captures the "expected move" for most Uniswap V3 pools and we can use this to predict how long we will be in a position on average given the drift and volatility. <br/> <br/> <img src='/images/project_figures/resized/drift_vol_sims_comparison.png'>"
 collection: portfolio
 ---
 
-The Pool Explorer App pulls real time data from several sources, calculates many metrics and shows price price data for comparison. It also uses Monte Carlo simulations to estimate some advanced metrics like *implied* volatility and *expected* impermanent loss.
-
-_[Pool Explorer](https://pool-explorer-1c536fd777f8.herokuapp.com/)_
+Modeling the probability of the price moving outside a liquidity provider's range given a certain drift and volatility is crucial for understanding the risks of LPing and optimizing the range. A Laplace distribution does a better job than a Gaussian at capturing the "expected move" of most LP pools, and simulations show how long we can expect to be in a position given the market dynamics.       
