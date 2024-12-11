@@ -1,6 +1,6 @@
 ---
 title: "Pool Explorer App"
-excerpt: "This app helps you explore Uniswap V3 pools and shows many metrics and price data for comparison. It also uses Monte Carlo simulations to estimate some advanced metrics like *implied* volatility and *expected* impermanent loss. <br/> <br/> <img src='/images/project_figures/resized/pool_explorer_app_example_pic.png'>"
+excerpt: "This app helps you explore Uniswap V3 pools and shows many metrics and price data for comparison. It also uses Monte Carlo simulations to estimate some advanced metrics like *implied* volatility and *expected* impermanent loss. <br/> <br/> <img src='/images/project_figures/resized/pool_explorer_app_example_pic_resized.png'>"
 collection: portfolio
 ---
 
