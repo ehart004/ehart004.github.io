@@ -1,6 +1,6 @@
 ---
 title: "Simulations reveal how long liquidity providers will remain in a position given market dynamics"
-excerpt: "A Laplace distribution better captures the "expected move" for most Uniswap V3 pools and we can use this to predict how long we will be in a position on average given the drift and volatility. <br/> <br/> <img src='/images/project_figures/resized/drift_vol_sims_comparison.png'>"
+excerpt: "A Laplace distribution better captures the expected move for most Uniswap V3 pools and we can use this to predict how long we will be in a position on average given the drift and volatility. <br/> <br/> <img src='/images/project_figures/resized/drift_vol_sims_comparison.png'>"
 collection: portfolio
 ---
 
