@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric Hart"
+title                    : "Eric"
 title_separator          : "-"
-name                     : &name "Eric hart"
+name                     : &name "Eric"
 description              : &description "personal description"
-url                      : https://www.erichart.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.dblespresso.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ehart004.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eric Hart"
+  name             : "Eric"
   avatar           : "profile.png"
-  bio              : "Senior Quant Researcher"
-  location         : "Austin, TX"
+  bio              : "Head of Quant Research"
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ehart004@gmail.com"
+  email            : "contact@dblespresso.xyz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ehart004"
+  github           : "dblespresso"
   google_plus      :
   keybase          :
   instagram        :
